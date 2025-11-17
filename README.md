@@ -1,16 +1,16 @@
-<!-- Custom Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ajeebha08/assests/f84c60cdd61c0bee2df7a155a4670f050093e942/banner%20github.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/ajeebha08/assests/f84c60cdd61c0bee2df7a155a4670f050093e942/banner%20github.jpg" width="75%" />
 </p>
 
-<!-- 3D Neon Animated Name -->
+<!-- Animated Name -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&duration=3500&pause=1500&color=FF58F6&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Ajeebha;Welcome+to+My+Tech+Space" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3500&pause=1500&color=FF58F6&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Ajeebha;Welcome+to+My+Tech+Space" />
 </h1>
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ajeebha08/assests/f84c60cdd61c0bee2df7a155a4670f050093e942/git%20hub%20profile%20readme.jpeg" width="235" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/ajeebha08/assests/f84c60cdd61c0bee2df7a155a4670f050093e942/git%20hub%20profile%20readme.jpeg" width="210">
 </p>
 
 <p align="center">
@@ -24,17 +24,8 @@
 📚 B.E CSE @ National Engineering College  
 📱 Focus: **Android (Kotlin + Jetpack Compose), Firebase, UI/UX**  
 🤖 Exploring **AI-driven recommendation systems & automation**  
-🛠️ Skilled in **Java, Kotlin, C, SQL, MERN Stack & Power BI**  
+🛠️ Skilled in **Java, Kotlin, C, SQL, MERN Stack, Power BI**  
 🚀 Passionate about building intelligent, aesthetic & impactful products  
-
----
-
-## 🧠 Areas of Interest
-- Android Development (Jetpack Compose + Firebase)
-- Machine Learning & Smart Recommendation Systems
-- Full-stack (MERN/PHP + SQL)
-- UI/UX Design & Frontend engineering
-- Data Analytics & Visualization
 
 ---
 
@@ -57,35 +48,24 @@
 
 ---
 
-## 💼 Featured Projects  
-✨ **Safe Route AI** – AI + ML based women safety route guidance system  
-👗 **Hijabi Smart Style AI** – Outfit & abaya recommendation using ML  
-📱 **NoteNest App** – Firebase-based CRUD Notes App with real-time sync  
-📊 **My Profile Vision** – Power BI portfolio dashboard  
-🖼️ **Image Gallery** – PHP + MySQL CRUD image management system  
-📚 **PerfConnect** – Attendance & marks automation (MERN + Automation)
-
----
-
 ## 🎓 Education
-📍 B.E Computer Science Engineering  
-National Engineering College (2022–Present)  
-CGPA: 7.35  
+National Engineering College – B.E CSE  
+CGPA: 7.35 (2022–Present)  
 
 ---
 
 ## 🏆 Certifications
 - Android Development
-- DBMS (Scaler Topics)
-- Technical Communication for Engineers – NPTEL
-- Agile Project Management – HP LIFE
+- DBMS – Scaler Topics
+- Technical Communication (NPTEL)
+- Agile Project Management (HP LIFE)
 - HTML/CSS – Infosys Springboard
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/ajeebha" target="_blank">
+  <a href="https://www.linkedin.com/in/ajeebha">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:ajeebha0829@gmail.com">
@@ -98,7 +78,6 @@ CGPA: 7.35
 
 ---
 
-## 🌈 Aesthetic Divider  
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
