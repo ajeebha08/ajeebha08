@@ -1,6 +1,6 @@
 <!-- Aesthetic Tech Gradient Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/headers/programming.png" width="100%" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2017%2Fsep%2F07%2Fislamophobia-holding-back-uk-muslims-in-workplace-study-finds&psig=AOvVaw0UaIGF1-Ks8rjcdMuCyhzz&ust=1763448394080000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNi9-rDL-JADFQAAAAAdAAAAABAL" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ajeebha</h1>
