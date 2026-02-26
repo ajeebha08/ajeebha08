@@ -84,7 +84,7 @@
 
 📚 PerfConnect – Attendance & marks automation system (MERN + Automation)
 
-🗄️ Oracle IQ – SQL, PL/SQL & Oracle tools-based assessment and project system
+🗄️ Orator IQ – Online Presentation and AI Evelauation System 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
