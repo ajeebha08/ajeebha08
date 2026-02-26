@@ -74,12 +74,17 @@
 ---
 
 ## 💼 Featured Projects  
-✨ **Safe Route AI** – AI + ML based women safety route guidance system  
-👗 **Hijabi Smart Style AI** – Outfit & abaya recommendation using ML  
-📱 **NoteNest App** – Firebase-based CRUD Notes App with real-time sync  
-📊 **My Profile Vision** – Power BI portfolio dashboard  
-🖼️ **Image Gallery** – PHP + MySQL CRUD image management system  
-📚 **PerfConnect** – Attendance & marks automation (MERN + Automation)
+✨ Safe Route AI – AI & ML–based women safety route guidance system
+
+📱 NoteNest App – Firebase-based CRUD notes app with real-time sync
+
+📊 My Profile Vision – Power BI portfolio dashboard
+
+🖼️ Image Gallery – PHP & MySQL CRUD image management system
+
+📚 PerfConnect – Attendance & marks automation system (MERN + Automation)
+
+🗄️ Oracle IQ – SQL, PL/SQL & Oracle tools-based assessment and project system
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
